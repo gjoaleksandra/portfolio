@@ -1,0 +1,101 @@
+/* Element selector */
+
+body {
+    background-color: rgb(231, 231, 231);
+    font-size: 20px;
+   padding-top: 150px;
+    }
+
+    h1 {
+         color: black;
+        text-align: center;
+        text-decoration: underline;
+        text-shadow: 10px 5px 3px #8a6739;
+      height: 20px;
+    }
+
+.menu {
+position: fixed;
+background-color: #91a6b4;
+top: 0;
+left: 0;
+right: 0;
+z-index: 10;
+
+}
+
+ol { font-size: 30px;
+    color: #8a6739;
+
+}
+
+ol li{ display: inline-block ;
+width: 300px;
+text-align: center;
+margin-left: 60px;
+margin-right: 60px;
+}
+
+
+
+ul { list-style-type: circle;
+    font-size: 20px;
+
+}
+
+ul li { display: inline-block;
+   width: 200px;
+   color: rgb(28, 65, 177);
+cursor: pointer;
+}
+
+.academyMentors {
+background-color: sandybrown;
+text-align: center;
+line-height: 50px;
+}
+
+
+.sunset img{
+width: 400px;
+height: 400px;
+    border: 3px solid black;
+    border-radius: 10px; 
+   margin-left: 30px;
+    margin-right: 30px;
+    
+}
+
+a.list {
+    text-decoration: none;
+    font-size: 20px;
+    color:darkred
+    
+}
+
+a.list:hover {
+    text-decoration: underline;
+    color: darkslategray;
+    font-size: 20px;
+}
+
+.registrationForm {
+
+    background-color: #91a6b4;
+    padding: 20px;
+    line-height: 30px;
+}
+
+  table, th, td {
+  border: 1px solid black;
+  padding: 20px;
+  margin-left: 20px;
+  margin-bottom: 20px;
+  display: inline-block;
+}
+
+.footer {
+
+    text-align: center;
+    color: blue;
+}
