@@ -1518,7 +1518,7 @@ ol li {
         font-size: 10px;
         font-weight: 500;
         padding: 8px 20px;
-        margin-top: 20px;
+        margin-top: 10px;
     }
 
     .testemonialText {
@@ -1719,8 +1719,9 @@ ol li {
 
     .socialmedia i {
         font-size: 12px;
-        margin-left: -5px;
 
 
     }
+
+
 }
