@@ -859,37 +859,37 @@ ol li {
 
 
 @media (min-width: 992px) and (max-width: 1199.98px) {
-	.menu li {
-	font-size: 16px;
-}
+    .menu li {
+        font-size: 16px;
+    }
 
-h1 a {
-	font-size: 21px;
-}
+    h1 a {
+        font-size: 21px;
+    }
 
-h2 {
-	font-size: 24px;
-}
+    h2 {
+        font-size: 24px;
+    }
 
-h3 {
-	font-size: 26px;
-}
+    h3 {
+        font-size: 26px;
+    }
 
-.circles {
-    Position: inherit;
-    width: fit-content;
-    margin: 0 auto;
-    display: flex;
-}
+    .circles {
+        Position: inherit;
+        width: fit-content;
+        margin: 0 auto;
+        display: flex;
+    }
 
-.testemonialText {
-	font-weight: 300;
-}
+    .testemonialText {
+        font-weight: 300;
+    }
 
-.contacts i {
-    font-size: 40px;
-    margin: 15px 0px;
-}
+    .contacts i {
+        font-size: 40px;
+        margin: 15px 0px;
+    }
 
     .innerDiv {
         box-sizing: border-box;
@@ -907,790 +907,820 @@ h3 {
     p {
 
         font-size: 16px;
-	font-weight: 200;
+        font-weight: 200;
     }
 
-.picture {
-    margin-bottom: 30px;
-}
+    .picture {
+        margin-bottom: 30px;
+    }
 
-.abouttext {
-	padding: 20px 30px;
-}
+    .abouttext {
+        padding: 20px 30px;
+    }
 
-	.skills img { 
-		height: 70px;
-	}
+    .skills img {
+        height: 70px;
+    }
 
-	.skills {
-		font-size: 14px;
-	}
+    .skills {
+        font-size: 14px;
+    }
 
 
-.educationtitle {
-	font-size: 20px;
-	font-weight: 600;
-}
+    .educationtitle {
+        font-size: 20px;
+        font-weight: 600;
+    }
 
-.educationtext {
-    font-size: 16px;
-    font-weight: 300;
-}
+    .educationtext {
+        font-size: 16px;
+        font-weight: 300;
+    }
 
-.workingProcess h3 {
-	font-size: 20px;
-}
+    .workingProcess h3 {
+        font-size: 20px;
+    }
 
-ol li {
-	font-size: 14px;
-}
+    ol li {
+        font-size: 14px;
+    }
 
-.name {
-	font-size: 26px;
-}
+    .name {
+        font-size: 26px;
+    }
 
-.projecttitle {
-width: calc(24%);
-}
+    .projecttitle {
+        width: calc(24%);
+    }
 
-.contact {
-	padding-top: 40px;
-	padding-bottom: 40px;
-}
+    .contact {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
 
-.footname {
-	font-size: 14px;
-	font-weight: 200;
-}
+    .footname {
+        font-size: 14px;
+        font-weight: 200;
+    }
 
 }
 
 @media (min-width: 768px) and (max-width: 991.98px) {
-.navigation h1 {
-font-size: 18px;
-font-weight: 500;
-}
+    .navigation h1 {
+        font-size: 18px;
+        font-weight: 500;
+    }
 
-h1 a {
-Font-size: inherit;
-}
+    h1 a {
+        Font-size: inherit;
+    }
 
-ul {
-margin-right: 0;
-}
+    ul {
+        margin-right: 0;
+    }
 
-.menu li {
-font-size: 16px;
-line-height: 20px;
-}
+    .menu li {
+        font-size: 16px;
+        line-height: 20px;
+    }
 
-h2 {
-Font-size: 20px;
-}
+    h2 {
+        Font-size: 20px;
+    }
 
-.image img {
-    height: 300px;
-    width: auto;
-}
+    .image img {
+        height: 300px;
+        width: auto;
+    }
 
-.background {
-height: 300px;
-}
+    .background {
+        height: 300px;
+    }
 
-p {
-font-size: 14px;
-font-weight: 200;
-}
+    p {
+        font-size: 14px;
+        font-weight: 200;
+    }
 
-.buttonreadmore {
-font-size: 12px;
-font-weight: 500;
-}
+    .buttonreadmore {
+        font-size: 12px;
+        font-weight: 500;
+    }
 
-.testemonialText {
-font-size: 14px;
-line-height: 20px;
-font-weight: 300;
-}
+    .testemonialText {
+        font-size: 14px;
+        line-height: 20px;
+        font-weight: 300;
+    }
 
-.testemonialName {
-    font-size: 14px;
-}
+    .testemonialName {
+        font-size: 14px;
+    }
 
-.testemonialPosition {
-    font-size: 12px;
-}
+    .testemonialPosition {
+        font-size: 12px;
+    }
 
-.circles {
-    position: inherit;
-    width: fit-content;
-    margin: 0 auto;
-    display: flex;
-}
+    .circles {
+        position: inherit;
+        width: fit-content;
+        margin: 0 auto;
+        display: flex;
+    }
 
-.name {
-font-size: 20px;
-}
+    .name {
+        font-size: 20px;
+    }
 
-.contact {
-    padding-top: 30px;
-    padding-bottom: 30px;
-    font-weight: 300;
-}
+    .contact {
+        padding-top: 30px;
+        padding-bottom: 30px;
+        font-weight: 300;
+    }
 
-.heroproject {
-left: 25%;
-width: 65%;
-}
+    .heroproject {
+        left: 25%;
+        width: 65%;
+    }
 
-.nameofproject {
-font-size: 18px;
-padding-bottom: 15px;
-}
+    .nameofproject {
+        font-size: 18px;
+        padding-bottom: 15px;
+    }
 
-.descriptionofproject {
-font-size: 14px;
-}
+    .descriptionofproject {
+        font-size: 14px;
+    }
 
-.title {
-    font-size: 14px;
-}
+    .title {
+        font-size: 14px;
+    }
 
-.titletext {
-    font-weight: 400;
-    font-size: 12px;
-}
+    .titletext {
+        font-weight: 400;
+        font-size: 12px;
+    }
 
-.projecttitle {
-width: calc(24%);
-}
+    .projecttitle {
+        width: calc(24%);
+    }
 
-.projectgoal {
-font-size: 14px;
-}
+    .projectgoal {
+        font-size: 14px;
+    }
 
-.projectgoal img {
-    width: auto;
-    height: 50px;
-}
+    .projectgoal img {
+        width: auto;
+        height: 50px;
+    }
 
-.projectinfo {
-font-size: 14px;
-}
+    .projectinfo {
+        font-size: 14px;
+    }
 
-.items {
-font-size: 12px;
-}
+    .items {
+        font-size: 12px;
+    }
 
-.itemIcon img {
-height: 50px;
-}
+    .itemIcon img {
+        height: 50px;
+    }
 
-.wireframes img {
-width: auto;
-height: 200px;
-}
+    .wireframes img {
+        width: auto;
+        height: 200px;
+    }
 
-.bakpic img {
-    width: auto;
-    height: 60px;
-}
+    .bakpic img {
+        width: auto;
+        height: 60px;
+    }
 
-.projectinfo2 {
-    width: 90%;
-}
+    .projectinfo2 {
+        width: 90%;
+    }
 
-.picture {
-    margin-bottom: 30px;
-}
+    .picture {
+        margin-bottom: 30px;
+    }
 
-.picture img {
-    height: 250px;
-}
+    .picture img {
+        height: 250px;
+    }
 
-.abouttext {
-width: 92%;
-}
+    .abouttext {
+        width: 92%;
+    }
 
-.skills img {
-    height: 50px;
-}
+    .skills img {
+        height: 50px;
+    }
 
-.skills span {
-font-size: 10px;
-}
+    .skills span {
+        font-size: 10px;
+    }
 
-.education {
-height: 200px;
-}
+    .education {
+        height: 200px;
+    }
 
-.educationBrainster {
-height: 200px;
-}
+    .educationBrainster {
+        height: 200px;
+    }
 
-.educationUkim {
-height: 200px;
-}
+    .educationUkim {
+        height: 200px;
+    }
 
-.educationBrainster img {
-    width: auto;
-    height: 90px;
-}
+    .educationBrainster img {
+        width: auto;
+        height: 90px;
+    }
 
-.educationUkim img {
-    width: auto;
-    height: 90px;
-}
+    .educationUkim img {
+        width: auto;
+        height: 90px;
+    }
 
-.educationproject {
-    margin-left: 80px;
-}
+    .educationproject {
+        margin-left: 80px;
+    }
 
-.educationtitle {
-    font-size: 17px;
-font-weight: 500;
-}
+    .educationtitle {
+        font-size: 17px;
+        font-weight: 500;
+    }
 
-.educationtext {
-    font-size: 13px;
-font-weight: 500;
-}
+    .educationtext {
+        font-size: 13px;
+        font-weight: 500;
+    }
 
-.workingProcess h3 {
-font-size: 21px;
-}
+    .workingProcess h3 {
+        font-size: 21px;
+    }
 
-ol li {
-font-size: 14px;
-font-weight: 300;
-}
+    ol li {
+        font-size: 14px;
+        font-weight: 300;
+    }
 
-h3 {
-    font-size: 21px;
-}
+    h3 {
+        font-size: 21px;
+    }
 
-.contacts i {
-font-size: 30px;
-margin: 20px 0px;
-}
+    .contacts i {
+        font-size: 30px;
+        margin: 20px 0px;
+    }
 
-.heroimage2 {
-height: 100vh;
-}
+    .heroimage2 {
+        height: 100vh;
+    }
 
 }
 
 @media (min-width: 576px) and (max-width: 767.98px) {
-.navigation h1 {
-font-size: 18px;
-font-weight: 500;
-}
+    .navigation h1 {
+        font-size: 18px;
+        font-weight: 500;
+    }
 
-h1 a {
-Font-size: inherit;
-}
+    h1 a {
+        Font-size: inherit;
+    }
 
-ul {
-margin-right: 0;
-}
+    ul {
+        margin-right: 0;
+    }
 
-.menu li {
-font-size: 16px;
-line-height: 20px;
-}
+    .menu li {
+        font-size: 16px;
+        line-height: 20px;
+    }
 
-h2 {
-font-size: 18px;
-}
+    h2 {
+        font-size: 18px;
+    }
 
-.image img {
-    height: 200px;
-    width: auto;
-}
+    .image img {
+        height: 200px;
+        width: auto;
+    }
 
-.background {
-height: 200px;
-Width: 65%;
-}
+    .background {
+        height: 200px;
+        Width: 65%;
+    }
 
-p {
-font-size: 12px;
-    font-weight: 200;
-    margin: 0;
-}
+    p {
+        font-size: 12px;
+        font-weight: 200;
+        margin: 0;
+    }
 
-.project {
-width: 100%;
-}
+    .project {
+        width: 100%;
+    }
 
-.projectName {
-    font-size: 18px;
-}
+    .projectName {
+        font-size: 18px;
+    }
 
-.projectText {
-    font-size: 14px;
-}
+    .projectText {
+        font-size: 14px;
+    }
 
-.testemonials {
-Width: 92%;
-}
+    .testemonials {
+        Width: 92%;
+    }
 
-.buttonreadmore {
-font-size: 10px;
-font-weight: 500;
-padding: 8px 20px;
-}
+    .buttonreadmore {
+        font-size: 10px;
+        font-weight: 500;
+        padding: 8px 20px;
+    }
 
-.testemonialText {
-font-size: 14px;
-line-height: 20px;
-font-weight: 300;
-}
+    .testemonialText {
+        font-size: 14px;
+        line-height: 20px;
+        font-weight: 300;
+    }
 
-.testemonialName {
-    font-size: 14px;
-}
+    .testemonialName {
+        font-size: 14px;
+    }
 
-.testemonialPosition {
-    font-size: 12px;
-}
+    .testemonialPosition {
+        font-size: 12px;
+    }
 
-.circles {
-    position: inherit;
-    width: fit-content;
-    margin: 0 auto;
-    display: flex;
-}
+    .circles {
+        position: inherit;
+        width: fit-content;
+        margin: 0 auto;
+        display: flex;
+    }
 
-.name {
-font-size: 20px;
-}
+    .name {
+        font-size: 20px;
+    }
 
-.contact {
-    padding-top: 30px;
-    padding-bottom: 30px;
-    font-weight: 300;
-}
+    .contact {
+        padding-top: 30px;
+        padding-bottom: 30px;
+        font-weight: 300;
+    }
 
-.heroproject {
-left: 30%;
-width: 80%;
-}
+    .heroproject {
+        left: 30%;
+        width: 80%;
+    }
 
-.projecttitle {
-width: calc(47%);
-border-top: 0.5px solid #DADADA;
+    .projecttitle {
+        width: calc(47%);
+        border-top: 0.5px solid #DADADA;
 
-}
+    }
 
-.nameofproject {
-font-size: 18px;
-padding-bottom: 15px;
-}
+    .nameofproject {
+        font-size: 18px;
+        padding-bottom: 15px;
+    }
 
-.descriptionofproject {
-font-size: 14px;
-}
+    .descriptionofproject {
+        font-size: 14px;
+    }
 
-.title {
-    font-size: 14px;
-}
+    .title {
+        font-size: 14px;
+    }
 
-.titletext {
-    font-weight: 400;
-    font-size: 12px;
-}
+    .titletext {
+        font-weight: 400;
+        font-size: 12px;
+    }
 
-.projectgoal {
-font-size: 14px;
-}
+    .projectgoal {
+        font-size: 14px;
+    }
 
-.projectgoal img {
-    width: auto;
-    height: 50px;
-}
+    .projectgoal img {
+        width: auto;
+        height: 50px;
+    }
 
-.projectinfo {
-font-size: 14px;
-Width: 92%;
-}
+    .projectinfo {
+        font-size: 14px;
+        Width: 92%;
+    }
 
-.items {
-font-size: 14px;
-line-height: 20px;
-width: 92%;
-}
+    .items {
+        font-size: 14px;
+        line-height: 20px;
+        width: 92%;
+    }
 
-.itemIcon img {
-height: 50px;
-}
+    .itemIcon img {
+        height: 50px;
+    }
 
-.itemIcon {
-padding-top: 40px;
-}
+    .itemIcon {
+        padding-top: 40px;
+    }
 
-.wireframes img {
-width: 100%;
-height: auto;
-}
+    .wireframes img {
+        width: 100%;
+        height: auto;
+    }
 
-.bakpic img {
-    width: auto;
-    height: 60px;
-}
+    .bakpic img {
+        width: auto;
+        height: 60px;
+    }
 
-.projectinfo2 {
-    width: 90%;
-}
+    .projectinfo2 {
+        width: 90%;
+    }
 
-.picture {
-    margin-bottom: 30px;
-}
+    .picture {
+        margin-bottom: 30px;
+    }
 
-.picture img {
-    height: 250px;
-}
+    .picture img {
+        height: 250px;
+    }
 
-.abouttext {
-width: 92%;
-}
+    .abouttext {
+        width: 92%;
+    }
 
-.skills img {
-    height: 50px;
-}
+    .skills img {
+        height: 50px;
+    }
 
-.skills span {
-font-size: 10px;
-}
+    .skills span {
+        font-size: 10px;
+    }
 
-.education {
-height: auto;
-}
+    .education {
+        height: auto;
+    }
 
-.educationBrainster {
-height: auto;
-width: 100%;
-float: initial;
-}
+    .educationBrainster {
+        height: auto;
+        width: 100%;
+        float: initial;
+    }
 
-.educationUkim {
-height: auto;
-width: 100%;
-}
+    .educationUkim {
+        height: auto;
+        width: 100%;
+    }
 
-.educationBrainster img {
-    width: auto;
-    height: 90px;
-}
+    .educationBrainster img {
+        width: auto;
+        height: 90px;
+    }
 
-.educationUkim img {
-    width: auto;
-    height: 90px;
-}
+    .educationUkim img {
+        width: auto;
+        height: 90px;
+    }
 
-.educationproject {
-    margin-left: 80px;
-}
+    .educationproject {
+        margin-left: 80px;
+    }
 
-.educationtitle {
-    font-size: 17px;
-font-weight: 500;
-}
+    .educationtitle {
+        font-size: 17px;
+        font-weight: 500;
+    }
 
-.educationtext {
-    font-size: 13px;
-font-weight: 500;
-}
+    .educationtext {
+        font-size: 13px;
+        font-weight: 500;
+    }
 
-.workingProcess h3 {
-font-size: 21px;
-}
+    .workingProcess h3 {
+        font-size: 21px;
+    }
 
-ol li {
-font-size: 14px;
-font-weight: 300;
-}
+    ol li {
+        font-size: 14px;
+        font-weight: 300;
+    }
 
-h3 {
-    font-size: 21px;
-}
+    h3 {
+        font-size: 21px;
+    }
 
-.contacts i {
-font-size: 30px;
-margin: 20px 0px;
-}
+    .contacts i {
+        font-size: 30px;
+        margin: 20px 0px;
+    }
 
-.heroimage2 {
-height: 100vh;
-}
+    .heroimage2 {
+        height: 100vh;
+    }
 
 }
 
 @media (max-width: 575.98px) {
-.navigation h1 {
-font-size: 20px;
-    font-weight: 500;
-    width: 100%;
-    display: block;
-    margin: 0 auto;
-    text-align: center;
-}
+    #heroimage {
+        height: 100vh;
+    }
 
-h1 a {
-Font-size: inherit;
-}
 
-ul {
-margin-right: 0;
-text-align: center;
-}
+    .navigation h1 {
+        font-size: 20px;
+        font-weight: 500;
+        width: 100%;
+        display: block;
+        margin: 0 auto;
+        text-align: center;
+    }
 
-.menu {
-    float: none;
-} 
+    h1 a {
+        Font-size: inherit;
+    }
 
-.menu li {
-font-size: 16px;
-line-height: 20px;
-}
+    ul {
+        margin-right: 0;
+        text-align: center;
+    }
 
-h2 {
-font-size: 22px;
-}
+    .menu {
+        float: none;
+    }
 
-.image img {
-    height: 200px;
-    width: auto;
-}
+    .menu li {
+        font-size: 16px;
+        line-height: 20px;
+    }
 
-.background {
-height: 200px;
-Width: 65%;
-padding: 15px;
-}
+    h2 {
+        font-size: 22px;
+    }
 
-p {
-font-size: 12px;
-    font-weight: 200;
-    margin: 0;
-}
+    .image img {
+        height: 200px;
+        width: auto;
+    }
 
-.project {
-width: 100%;
-}
+    .background {
+        height: 210px;
+        Width: 70%;
+        padding: 15px;
+        margin-left: 0px;
+        margin-top: 10px;
+    }
 
-.projectName {
-    font-size: 18px;
-}
+    p {
+        font-size: 12px;
+        font-weight: 200;
+        margin: 0;
+    }
 
-.projectText {
-    font-size: 14px;
-}
+    .project {
+        width: 100%;
+        margin-bottom: 30px;
+    }
 
-.testemonials {
-width: 92%;
-}
+    .project.project4 {
+        margin-top: 10px;
+        margin-bottom: 30px;
+    }
 
-.buttonreadmore {
-font-size: 10px;
-font-weight: 500;
-padding: 8px 20px;
-margin-top: 20px;
-}
+    .project.project5 {
+        margin-top: 10px;
+        margin-bottom: 30px;
+    }
 
-.testemonialText {
-font-size: 14px;
-line-height: 20px;
-font-weight: 300;
-padding: 40px 30px
-}
+    .project.project6 {
+        margin-top: 10px;
+        margin-bottom: 30px;
+    }
 
-.testemonialName {
-    font-size: 14px;
-}
+    .projectName {
+        font-size: 18px;
+    }
 
-.testemonialPerson { 
-padding: 0 30px 20px 0;
-}
+    .projectText {
+        font-size: 14px;
+    }
 
-.testemonialPosition {
-    font-size: 12px;
-}
+    .testemonials {
+        width: 92%;
+    }
 
-.circles {
-    position: inherit;
-    width: fit-content;
-    margin: 0 auto;
-    display: flex;
-}
+    .buttonreadmore {
+        font-size: 10px;
+        font-weight: 500;
+        padding: 8px 20px;
+        margin-top: 20px;
+    }
 
-.name {
-font-size: 20px;
-}
+    .testemonialText {
+        font-size: 14px;
+        line-height: 20px;
+        font-weight: 300;
+        padding: 40px 30px
+    }
 
-.contact {
-    padding-top: 30px;
-    padding-bottom: 30px;
-    font-weight: 300;
-}
+    .testemonialName {
+        font-size: 14px;
+    }
 
-.heroproject {
-left: 30%;
-width: 80%;
-}
+    .testemonialPerson {
+        padding: 0 30px 20px 0;
+    }
 
-.projecttitle {
-width: calc(47%);
-border-top: 0.5px solid #DADADA;
+    .testemonialPosition {
+        font-size: 12px;
+    }
 
-}
+    .circles {
+        position: inherit;
+        width: fit-content;
+        margin: 0 auto;
+        display: flex;
+    }
 
-.nameofproject {
-font-size: 18px;
-padding-bottom: 15px;
-}
+    .name {
+        font-size: 20px;
+    }
 
-.descriptionofproject {
-font-size: 14px;
-}
+    .contact {
+        padding-top: 30px;
+        padding-bottom: 30px;
+        font-weight: 300;
+    }
 
-.title {
-    font-size: 14px;
-}
+    .heroproject {
+        left: 30%;
+        width: 80%;
+    }
 
-.titletext {
-    font-weight: 400;
-    font-size: 12px;
-}
+    .projecttitle {
+        width: calc(47%);
+        border-top: 0.5px solid #DADADA;
 
-.projectgoal {
-font-size: 14px;
-}
+    }
 
-.projectgoal img {
-    width: auto;
-    height: 50px;
-}
+    .nameofproject {
+        font-size: 18px;
+        padding-bottom: 15px;
+    }
 
-.projectinfo {
-font-size: 14px;
-Width: 92%;
-}
+    .descriptionofproject {
+        font-size: 14px;
+    }
 
-.items {
-font-size: 14px;
-line-height: 20px;
-width: 92%;
-}
+    .title {
+        font-size: 14px;
+    }
 
-.itemIcon img {
-height: 50px;
-}
+    .titletext {
+        font-weight: 400;
+        font-size: 12px;
+    }
 
-.itemIcon {
-padding-top: 40px;
-}
+    .projectgoal {
+        font-size: 14px;
+    }
 
-.wireframes img {
-width: 100%;
-height: auto;
-}
+    .projectgoal img {
+        width: auto;
+        height: 50px;
+    }
 
-.bakpic img {
-    width: auto;
-    height: 60px;
-}
+    .projectinfo {
+        font-size: 14px;
+        Width: 92%;
+    }
 
-.projectinfo2 {
-    width: 90%;
-}
+    .items {
+        font-size: 14px;
+        line-height: 20px;
+        width: 92%;
+    }
 
-.picture {
-    margin-bottom: 30px;
-}
+    .itemIcon img {
+        height: 50px;
+    }
 
-.picture img {
-    height: 250px;
-}
+    .itemIcon {
+        padding-top: 40px;
+    }
 
-.abouttext {
-width: 92%;
-}
+    .wireframes img {
+        width: 100%;
+        height: auto;
+    }
 
-.skills img {
-    height: 50px;
-}
+    .bakpic img {
+        width: auto;
+        height: 60px;
+    }
 
-.skills div {
-width: 50% !important;
-    margin: 0 auto;
-    text-align: center;
-}
+    .projectinfo2 {
+        width: 90%;
+    }
 
-.skills span {
-font-size: 12px;
-    width: 100%;
-    display: block;
-}
+    .picture {
+        margin-bottom: 30px;
+    }
 
-.education {
-height: auto;
-}
+    .picture img {
+        height: 250px;
+    }
 
-.educationBrainster {
-height: auto;
-width: 100%;
-float: initial;
-}
+    .abouttext {
+        width: 92%;
+    }
 
-.educationUkim {
-height: auto;
-width: 100%;
-}
+    .skills img {
+        height: 50px;
+    }
 
-.educationBrainster img {
-    width: auto;
-    height: 90px;
-}
+    .skills div {
+        width: 50% !important;
+        margin: 0 auto;
+        text-align: center;
+    }
 
-.educationUkim img {
-    width: auto;
-    height: 90px;
-}
+    .skills span {
+        font-size: 12px;
+        width: 100%;
+        display: block;
+    }
 
-.educationproject {
-    margin-left: 80px;
-}
+    .education {
+        height: auto;
+    }
 
-.educationtitle {
-    font-size: 17px;
-font-weight: 500;
-}
+    .educationBrainster {
+        height: auto;
+        width: 100%;
+        float: initial;
+    }
 
-.educationtext {
-    font-size: 13px;
-font-weight: 500;
-}
+    .educationUkim {
+        height: auto;
+        width: 100%;
+    }
 
-.workingProcess h3 {
-font-size: 21px;
-}
+    .educationBrainster img {
+        width: auto;
+        height: 90px;
+    }
 
-ol li {
-font-size: 14px;
-font-weight: 300;
-}
+    .educationUkim img {
+        width: auto;
+        height: 90px;
+    }
 
-h3 {
-    font-size: 21px;
-}
+    .educationproject {
+        margin-left: 80px;
+    }
 
-.contacts i {
-font-size: 30px;
-margin: 20px 0px;
-}
+    .educationtitle {
+        font-size: 17px;
+        font-weight: 500;
+    }
 
-.heroimage2 {
-height: 100vh;
-}
+    .educationtext {
+        font-size: 13px;
+        font-weight: 500;
+    }
+
+    .workingProcess h3 {
+        font-size: 21px;
+    }
+
+    ol li {
+        font-size: 14px;
+        font-weight: 300;
+    }
+
+    h3 {
+        font-size: 20px;
+    }
+
+    .contacts i {
+        font-size: 30px;
+        margin: 20px 0px;
+    }
+
+    .heroimage2 {
+        height: 100vh;
+    }
+
+    .socialmedia i {
+        font-size: 12px;
+        margin-left: -5px;
+
+
+    }
 }
