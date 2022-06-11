@@ -1459,6 +1459,13 @@ ol li {
         line-height: 20px;
     }
 
+    .innerDiv {
+        width: 90%;
+        max-width: 900px;
+
+    }
+
+
     h2 {
         font-size: 22px;
     }
@@ -1470,7 +1477,7 @@ ol li {
 
     .background {
         height: 210px;
-        Width: 70%;
+        Width: 90%;
         padding: 15px;
         margin-left: 0px;
         margin-top: 10px;
