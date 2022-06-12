@@ -1495,6 +1495,10 @@ ol li {
         margin-top: 75px;
     }
 
+    .aboutMe h2 {
+        margin-top: 0px;
+    }
+
     .image img {
         height: 200px;
         width: auto;
@@ -1550,7 +1554,7 @@ ol li {
         font-size: 10px;
         font-weight: 500;
         padding: 8px 20px;
-        margin-top: 10px;
+        margin-top: 9px;
     }
 
     .testemonialText {
@@ -1628,8 +1632,9 @@ ol li {
     }
 
     .projectinfo {
-        font-size: 14px;
+        font-size: 13px;
         Width: 92%;
+        padding: 15px 0;
     }
 
     .items {
@@ -1658,6 +1663,16 @@ ol li {
 
     .projectinfo2 {
         width: 90%;
+        font-size: 13px;
+    }
+
+    .left {
+
+        padding: 5px 0;
+    }
+
+    .right {
+        padding: 5px 0;
     }
 
     .picture {
@@ -1748,12 +1763,5 @@ ol li {
     .heroimage2 {
         height: 100vh;
     }
-
-    .socialmedia i {
-        font-size: 12px;
-
-
-    }
-
 
 }
