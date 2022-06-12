@@ -397,7 +397,7 @@ p {
 
 .circles {
     position: absolute;
-    right: 50%;
+    right: 45%;
 
 
 }
@@ -1206,6 +1206,17 @@ ol li {
 
     h2 {
         font-size: 22px;
+    }
+
+    .aboutMe h2 {
+        margin-top: 0px;
+    }
+
+    h2.about {
+        margin-top: 75px;
+    }
+
+    h2.portfolio {
         margin-top: 75px;
     }
 
@@ -1486,17 +1497,23 @@ ol li {
 
     .innerDiv {
         width: 90%;
-        max-width: 900px;
     }
 
 
     h2 {
         font-size: 22px;
-        margin-top: 75px;
     }
 
     .aboutMe h2 {
         margin-top: 0px;
+    }
+
+    h2.about {
+        margin-top: 75px;
+    }
+
+    h2.portfolio {
+        margin-top: 75px;
     }
 
     .image img {
@@ -1634,7 +1651,7 @@ ol li {
     .projectinfo {
         font-size: 13px;
         Width: 92%;
-        padding: 15px 0;
+        padding: 10px 0;
     }
 
     .items {
@@ -1664,6 +1681,7 @@ ol li {
     .projectinfo2 {
         width: 90%;
         font-size: 13px;
+        padding: 10px 0;
     }
 
     .left {
@@ -1764,4 +1782,8 @@ ol li {
         height: 100vh;
     }
 
+    .zanovpic img {
+        width: 100%;
+
+    }
 }
