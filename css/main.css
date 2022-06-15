@@ -1203,6 +1203,18 @@ ol li {
         font-size: 18px;
     }
 
+    .aboutMe h2 {
+        margin-top: 0px;
+    }
+
+    h2.about {
+        margin-top: 75px;
+    }
+
+    h2.portfolio {
+        margin-top: 75px;
+    }
+
     .image img {
         height: 200px;
         width: auto;
@@ -1221,6 +1233,36 @@ ol li {
 
     .project {
         width: 100%;
+    }
+
+    .project.project1 {
+        margin-top: 10px;
+        margin-bottom: 30px;
+    }
+
+    .project.project2 {
+        margin-top: 10px;
+        margin-bottom: 30px;
+    }
+
+    .project.project3 {
+        margin-top: 10px;
+        margin-bottom: 30px;
+    }
+
+    .project.project4 {
+        margin-top: 10px;
+        margin-bottom: 30px;
+    }
+
+    .project.project5 {
+        margin-top: 10px;
+        margin-bottom: 30px;
+    }
+
+    .project.project6 {
+        margin-top: 10px;
+        margin-bottom: 30px;
     }
 
     .projectName {
