@@ -1705,6 +1705,14 @@ ol li {
         width: 90%;
     }
 
+    .left {
+        padding: 10px 0;
+    }
+
+    .right {
+        padding: 10px 0;
+    }
+
     .picture {
         margin-bottom: 30px;
     }
