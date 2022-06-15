@@ -397,7 +397,7 @@ p {
 
 .circles {
     position: absolute;
-    right: 45%;
+    right: 50%;
 
 
 }
@@ -859,37 +859,37 @@ ol li {
 
 
 @media (min-width: 992px) and (max-width: 1199.98px) {
-    .menu li {
-        font-size: 16px;
-    }
+	.menu li {
+	font-size: 16px;
+}
 
-    h1 a {
-        font-size: 21px;
-    }
+h1 a {
+	font-size: 21px;
+}
 
-    h2 {
-        font-size: 24px;
-    }
+h2 {
+	font-size: 24px;
+}
 
-    h3 {
-        font-size: 26px;
-    }
+h3 {
+	font-size: 26px;
+}
 
-    .circles {
-        Position: inherit;
-        width: fit-content;
-        margin: 0 auto;
-        display: flex;
-    }
+.circles {
+    Position: inherit;
+    width: fit-content;
+    margin: 0 auto;
+    display: flex;
+}
 
-    .testemonialText {
-        font-weight: 300;
-    }
+.testemonialText {
+	font-weight: 300;
+}
 
-    .contacts i {
-        font-size: 40px;
-        margin: 15px 0px;
-    }
+.contacts i {
+    font-size: 40px;
+    margin: 15px 0px;
+}
 
     .innerDiv {
         box-sizing: border-box;
@@ -907,883 +907,820 @@ ol li {
     p {
 
         font-size: 16px;
-        font-weight: 200;
+	font-weight: 200;
     }
 
-    .picture {
-        margin-bottom: 30px;
-    }
+.picture {
+    margin-bottom: 30px;
+}
 
-    .abouttext {
-        padding: 20px 30px;
-    }
+.abouttext {
+	padding: 20px 30px;
+}
 
-    .skills img {
-        height: 70px;
-    }
+	.skills img { 
+		height: 70px;
+	}
 
-    .skills {
-        font-size: 14px;
-    }
+	.skills {
+		font-size: 14px;
+	}
 
 
-    .educationtitle {
-        font-size: 20px;
-        font-weight: 600;
-    }
+.educationtitle {
+	font-size: 20px;
+	font-weight: 600;
+}
 
-    .educationtext {
-        font-size: 16px;
-        font-weight: 300;
-    }
+.educationtext {
+    font-size: 16px;
+    font-weight: 300;
+}
 
-    .workingProcess h3 {
-        font-size: 20px;
-    }
+.workingProcess h3 {
+	font-size: 20px;
+}
 
-    ol li {
-        font-size: 14px;
-    }
+ol li {
+	font-size: 14px;
+}
 
-    .name {
-        font-size: 26px;
-    }
+.name {
+	font-size: 26px;
+}
 
-    .projecttitle {
-        width: calc(24%);
-    }
+.projecttitle {
+width: calc(24%);
+}
 
-    .contact {
-        padding-top: 40px;
-        padding-bottom: 40px;
-    }
+.contact {
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
 
-    .footname {
-        font-size: 14px;
-        font-weight: 200;
-    }
+.footname {
+	font-size: 14px;
+	font-weight: 200;
+}
 
 }
 
 @media (min-width: 768px) and (max-width: 991.98px) {
-    .navigation h1 {
-        font-size: 18px;
-        font-weight: 500;
-    }
+.navigation h1 {
+font-size: 18px;
+font-weight: 500;
+}
 
-    h1 a {
-        Font-size: inherit;
-    }
+h1 a {
+Font-size: inherit;
+}
 
-    ul {
-        margin-right: 0;
-    }
+ul {
+margin-right: 0;
+}
 
-    .menu li {
-        font-size: 16px;
-        line-height: 20px;
-    }
+.menu li {
+font-size: 16px;
+line-height: 20px;
+}
 
-    h2 {
-        Font-size: 22px;
-    }
+h2 {
+Font-size: 20px;
+}
 
-    .image img {
-        height: 300px;
-        width: auto;
-    }
+.image img {
+    height: 300px;
+    width: auto;
+}
 
-    .background {
-        height: 300px;
-    }
+.background {
+height: 300px;
+}
 
-    p {
-        font-size: 14px;
-        font-weight: 200;
-    }
+p {
+font-size: 14px;
+font-weight: 200;
+}
 
-    .buttonreadmore {
-        font-size: 12px;
-        font-weight: 500;
-    }
+.buttonreadmore {
+font-size: 12px;
+font-weight: 500;
+}
 
-    .testemonialText {
-        font-size: 14px;
-        line-height: 20px;
-        font-weight: 300;
-    }
+.testemonialText {
+font-size: 14px;
+line-height: 20px;
+font-weight: 300;
+}
 
-    .testemonialName {
-        font-size: 14px;
-    }
+.testemonialName {
+    font-size: 14px;
+}
 
-    .testemonialPosition {
-        font-size: 12px;
-    }
+.testemonialPosition {
+    font-size: 12px;
+}
 
-    .circles {
-        position: inherit;
-        width: fit-content;
-        margin: 0 auto;
-        display: flex;
-    }
+.circles {
+    position: inherit;
+    width: fit-content;
+    margin: 0 auto;
+    display: flex;
+}
 
-    .name {
-        font-size: 20px;
-    }
+.name {
+font-size: 20px;
+}
 
-    .contact {
-        padding-top: 30px;
-        padding-bottom: 30px;
-        font-weight: 300;
-    }
+.contact {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-weight: 300;
+}
 
-    .heroproject {
-        left: 25%;
-        width: 65%;
-    }
+.heroproject {
+left: 25%;
+width: 65%;
+}
 
-    .nameofproject {
-        font-size: 18px;
-        padding-bottom: 15px;
-    }
+.nameofproject {
+font-size: 18px;
+padding-bottom: 15px;
+}
 
-    .descriptionofproject {
-        font-size: 14px;
-    }
+.descriptionofproject {
+font-size: 14px;
+}
 
-    .title {
-        font-size: 14px;
-    }
+.title {
+    font-size: 14px;
+}
 
-    .titletext {
-        font-weight: 400;
-        font-size: 12px;
-    }
+.titletext {
+    font-weight: 400;
+    font-size: 12px;
+}
 
-    .projecttitle {
-        width: calc(24%);
-    }
+.projecttitle {
+width: calc(24%);
+}
 
-    .projectgoal {
-        font-size: 14px;
-    }
+.projectgoal {
+font-size: 14px;
+}
 
-    .projectgoal img {
-        width: auto;
-        height: 50px;
-    }
+.projectgoal img {
+    width: auto;
+    height: 50px;
+}
 
-    .projectinfo {
-        font-size: 14px;
-    }
+.projectinfo {
+font-size: 14px;
+}
 
-    .items {
-        font-size: 12px;
-    }
+.items {
+font-size: 12px;
+}
 
-    .itemIcon img {
-        height: 50px;
-    }
+.itemIcon img {
+height: 50px;
+}
 
-    .wireframes img {
-        width: auto;
-        height: 200px;
-    }
+.wireframes img {
+width: auto;
+height: 200px;
+}
 
-    .bakpic img {
-        width: auto;
-        height: 60px;
-    }
+.bakpic img {
+    width: auto;
+    height: 60px;
+}
 
-    .projectinfo2 {
-        width: 90%;
-    }
+.projectinfo2 {
+    width: 90%;
+}
 
-    .picture {
-        margin-bottom: 30px;
-    }
+.picture {
+    margin-bottom: 30px;
+}
 
-    .picture img {
-        height: 250px;
-    }
+.picture img {
+    height: 250px;
+}
 
-    .abouttext {
-        width: 92%;
-    }
+.abouttext {
+width: 92%;
+}
 
-    .skills img {
-        height: 50px;
-    }
+.skills img {
+    height: 50px;
+}
 
-    .skills span {
-        font-size: 10px;
-    }
+.skills span {
+font-size: 10px;
+}
 
-    .education {
-        height: 200px;
-    }
+.education {
+height: 200px;
+}
 
-    .educationBrainster {
-        height: 200px;
-    }
+.educationBrainster {
+height: 200px;
+}
 
-    .educationUkim {
-        height: 200px;
-    }
+.educationUkim {
+height: 200px;
+}
 
-    .educationBrainster img {
-        width: auto;
-        height: 90px;
-    }
+.educationBrainster img {
+    width: auto;
+    height: 90px;
+}
 
-    .educationUkim img {
-        width: auto;
-        height: 90px;
-    }
+.educationUkim img {
+    width: auto;
+    height: 90px;
+}
 
-    .educationproject {
-        margin-left: 80px;
-    }
+.educationproject {
+    margin-left: 80px;
+}
 
-    .educationtitle {
-        font-size: 17px;
-        font-weight: 500;
-    }
+.educationtitle {
+    font-size: 17px;
+font-weight: 500;
+}
 
-    .educationtext {
-        font-size: 13px;
-        font-weight: 500;
-    }
+.educationtext {
+    font-size: 13px;
+font-weight: 500;
+}
 
-    .workingProcess h3 {
-        font-size: 21px;
-    }
+.workingProcess h3 {
+font-size: 21px;
+}
 
-    ol li {
-        font-size: 14px;
-        font-weight: 300;
-    }
+ol li {
+font-size: 14px;
+font-weight: 300;
+}
 
-    h3 {
-        font-size: 21px;
-    }
+h3 {
+    font-size: 21px;
+}
 
-    .contacts i {
-        font-size: 30px;
-        margin: 20px 0px;
-    }
+.contacts i {
+font-size: 30px;
+margin: 20px 0px;
+}
 
-    .heroimage2 {
-        height: 100vh;
-    }
+.heroimage2 {
+height: 100vh;
+}
 
 }
 
 @media (min-width: 576px) and (max-width: 767.98px) {
-    .navigation h1 {
-        font-size: 18px;
-        font-weight: 500;
-    }
+.navigation h1 {
+font-size: 18px;
+font-weight: 500;
+}
 
-    h1 a {
-        Font-size: inherit;
-    }
+h1 a {
+font-size: inherit;
+}
 
-    ul {
-        margin-right: 0;
-    }
+ul {
+margin-right: 0;
+}
 
-    .menu li {
-        font-size: 16px;
-        line-height: 20px;
-    }
+.menu li {
+font-size: 16px;
+line-height: 20px;
+}
 
-    .innerDiv {
-        width: 90%;
-        max-width: 900px;
-    }
+h2 {
+font-size: 18px;
+}
 
-    h2 {
-        font-size: 22px;
-    }
+.image img {
+    height: 200px;
+    width: auto;
+}
 
-    .aboutMe h2 {
-        margin-top: 0px;
-    }
+.background {
+height: 200px;
+Width: 65%;
+}
 
-    h2.about {
-        margin-top: 75px;
-    }
+p {
+font-size: 12px;
+    font-weight: 200;
+    margin: 0;
+}
 
-    h2.portfolio {
-        margin-top: 75px;
-    }
+.project {
+width: 100%;
+}
 
-    .image img {
-        height: 200px;
-        width: auto;
-    }
+.projectName {
+    font-size: 18px;
+}
 
-    .background {
-        height: 200px;
-        Width: 65%;
-        padding: 15px;
-    }
+.projectText {
+    font-size: 14px;
+}
 
-    p {
-        font-size: 12px;
-        font-weight: 200;
-        margin: 0;
-    }
+.testemonials {
+Width: 92%;
+}
 
-    .project {
-        width: 100%;
-        margin-bottom: 30px;
-    }
+.buttonreadmore {
+font-size: 10px;
+font-weight: 500;
+padding: 8px 20px;
+}
 
-    .project.project4 {
-        margin-top: 10px;
-        margin-bottom: 30px;
-    }
+.testemonialText {
+font-size: 14px;
+line-height: 20px;
+font-weight: 300;
+}
 
-    .project.project5 {
-        margin-top: 10px;
-        margin-bottom: 30px;
-    }
+.testemonialName {
+    font-size: 14px;
+}
 
-    .project.project6 {
-        margin-top: 10px;
-        margin-bottom: 30px;
-    }
+.testemonialPosition {
+    font-size: 12px;
+}
 
-    .projectName {
-        font-size: 18px;
-    }
+.circles {
+    position: inherit;
+    width: fit-content;
+    margin: 0 auto;
+    display: flex;
+}
 
-    .projectText {
-        font-size: 14px;
-    }
+.name {
+font-size: 20px;
+}
 
-    .testemonials {
-        Width: 92%;
-    }
+.contact {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-weight: 300;
+}
 
-    .buttonreadmore {
-        font-size: 10px;
-        font-weight: 500;
-        padding: 8px 20px;
-        margin-top: 10px;
+.heroproject {
+left: 30%;
+width: 80%;
+}
 
-    }
+.projecttitle {
+width: calc(47%);
+border-top: 0.5px solid #DADADA;
 
-    .testemonialText {
-        font-size: 14px;
-        line-height: 20px;
-        font-weight: 300;
-    }
+}
 
-    .testemonialName {
-        font-size: 14px;
-    }
+.nameofproject {
+font-size: 18px;
+padding-bottom: 15px;
+}
 
-    .testemonialPosition {
-        font-size: 12px;
-    }
+.descriptionofproject {
+font-size: 14px;
+}
 
-    .circles {
-        position: inherit;
-        width: fit-content;
-        margin: 0 auto;
-        display: flex;
-    }
+.title {
+    font-size: 14px;
+}
 
-    .name {
-        font-size: 20px;
-    }
+.titletext {
+    font-weight: 400;
+    font-size: 12px;
+}
 
-    .contact {
-        padding-top: 30px;
-        padding-bottom: 30px;
-        font-weight: 300;
-    }
+.projectgoal {
+font-size: 14px;
+}
 
-    .heroproject {
-        left: 30%;
-        width: 80%;
-    }
+.projectgoal img {
+    width: auto;
+    height: 50px;
+}
 
-    .projecttitle {
-        width: calc(47%);
-        border-top: 0.5px solid #DADADA;
+.projectinfo {
+font-size: 14px;
+Width: 92%;
+}
 
-    }
+.items {
+font-size: 14px;
+line-height: 20px;
+width: 92%;
+}
 
-    .nameofproject {
-        font-size: 18px;
-        padding-bottom: 15px;
-    }
+.itemIcon img {
+height: 50px;
+}
 
-    .descriptionofproject {
-        font-size: 14px;
-    }
+.itemIcon {
+padding-top: 40px;
+}
 
-    .title {
-        font-size: 14px;
-    }
+.wireframes img {
+width: 100%;
+height: auto;
+}
 
-    .titletext {
-        font-weight: 400;
-        font-size: 12px;
-    }
+.bakpic img {
+    width: auto;
+    height: 60px;
+}
 
-    .projectgoal {
-        font-size: 14px;
-    }
+.projectinfo2 {
+    width: 90%;
+}
 
-    .projectgoal img {
-        width: auto;
-        height: 50px;
-    }
+.picture {
+    margin-bottom: 30px;
+}
 
-    .projectinfo {
-        font-size: 14px;
-        Width: 92%;
-    }
+.picture img {
+    height: 250px;
+}
 
-    .items {
-        font-size: 14px;
-        line-height: 20px;
-        width: 92%;
-    }
+.abouttext {
+width: 92%;
+}
 
-    .itemIcon img {
-        height: 50px;
-    }
+.skills img {
+    height: 50px;
+}
 
-    .itemIcon {
-        padding-top: 40px;
-    }
+.skills span {
+font-size: 10px;
+}
 
-    .wireframes img {
-        width: 100%;
-        height: auto;
-    }
+.education {
+height: auto;
+}
 
-    .bakpic img {
-        width: auto;
-        height: 60px;
-    }
+.educationBrainster {
+height: auto;
+width: 100%;
+float: initial;
+}
 
-    .projectinfo2 {
-        width: 90%;
-    }
+.educationUkim {
+height: auto;
+width: 100%;
+}
 
-    .picture {
-        margin-bottom: 30px;
-    }
+.educationBrainster img {
+    width: auto;
+    height: 90px;
+}
 
-    .picture img {
-        height: 250px;
-    }
+.educationUkim img {
+    width: auto;
+    height: 90px;
+}
 
-    .abouttext {
-        width: 92%;
-    }
+.educationproject {
+    margin-left: 80px;
+}
 
-    .skills img {
-        height: 50px;
-    }
+.educationtitle {
+    font-size: 17px;
+font-weight: 500;
+}
 
-    .skills span {
-        font-size: 10px;
-    }
+.educationtext {
+    font-size: 13px;
+font-weight: 500;
+}
 
-    .education {
-        height: auto;
-    }
+.workingProcess h3 {
+font-size: 21px;
+}
 
-    .educationBrainster {
-        height: auto;
-        width: 100%;
-        float: initial;
-    }
+ol li {
+font-size: 14px;
+font-weight: 300;
+}
 
-    .educationUkim {
-        height: auto;
-        width: 100%;
-    }
+h3 {
+    font-size: 21px;
+}
 
-    .educationBrainster img {
-        width: auto;
-        height: 90px;
-    }
+.contacts i {
+font-size: 30px;
+margin: 20px 0px;
+}
 
-    .educationUkim img {
-        width: auto;
-        height: 90px;
-    }
-
-    .educationproject {
-        margin-left: 80px;
-    }
-
-    .educationtitle {
-        font-size: 17px;
-        font-weight: 500;
-    }
-
-    .educationtext {
-        font-size: 13px;
-        font-weight: 500;
-    }
-
-    .workingProcess h3 {
-        font-size: 21px;
-    }
-
-    ol li {
-        font-size: 14px;
-        font-weight: 300;
-    }
-
-    h3 {
-        font-size: 21px;
-    }
-
-    .contacts i {
-        font-size: 30px;
-        margin: 20px 0px;
-    }
-
-    .heroimage2 {
-        height: 100vh;
-    }
+.heroimage2 {
+height: 100vh;
+}
 
 }
 
 @media (max-width: 575.98px) {
-    #heroimage {
-        height: 100vh;
-    }
-
-
-    .navigation h1 {
-        font-size: 20px;
-        font-weight: 500;
-        width: 100%;
-        display: block;
-        margin: 0 auto;
-        text-align: center;
-    }
-
-    h1 a {
-        Font-size: inherit;
-    }
-
-    ul {
-        margin-right: 0;
-        text-align: center;
-    }
-
-    .menu {
-        float: none;
-    }
-
-    .menu li {
-        font-size: 16px;
-        line-height: 20px;
-    }
-
-    .innerDiv {
-        width: 90%;
-    }
-
-
-    h2 {
-        font-size: 22px;
-    }
-
-    .aboutMe h2 {
-        margin-top: 0px;
-    }
-
-    h2.about {
-        margin-top: 75px;
-    }
-
-    h2.portfolio {
-        margin-top: 75px;
-    }
-
-    .image img {
-        height: 200px;
-        width: auto;
-    }
-
-    .background {
-        height: 215px;
-        Width: 90%;
-        padding: 15px;
-        margin-left: 0px;
-        margin-top: 10px;
-    }
-
-    p {
-        font-size: 12px;
-        font-weight: 200;
-        margin: 0;
-    }
-
-    .project {
-        width: 100%;
-        margin-bottom: 30px;
-    }
-
-    .project.project4 {
-        margin-top: 10px;
-        margin-bottom: 30px;
-    }
-
-    .project.project5 {
-        margin-top: 10px;
-        margin-bottom: 30px;
-    }
-
-    .project.project6 {
-        margin-top: 10px;
-        margin-bottom: 30px;
-    }
-
-    .projectName {
-        font-size: 18px;
-    }
-
-    .projectText {
-        font-size: 14px;
-    }
-
-    .testemonials {
-        width: 92%;
-    }
-
-    .buttonreadmore {
-        font-size: 10px;
-        font-weight: 500;
-        padding: 8px 20px;
-        margin-top: 9px;
-    }
-
-    .testemonialText {
-        font-size: 14px;
-        line-height: 20px;
-        font-weight: 300;
-        padding: 40px 30px
-    }
-
-    .testemonialName {
-        font-size: 14px;
-    }
-
-    .testemonialPerson {
-        padding: 0 30px 20px 0;
-    }
-
-    .testemonialPosition {
-        font-size: 12px;
-    }
-
-    .circles {
-        position: inherit;
-        width: fit-content;
-        margin: 0 auto;
-        display: flex;
-    }
-
-    .name {
-        font-size: 20px;
-    }
-
-    .contact {
-        padding-top: 30px;
-        padding-bottom: 30px;
-        font-weight: 300;
-    }
-
-    .heroproject {
-        left: 30%;
-        width: 80%;
-    }
-
-    .projecttitle {
-        width: calc(47%);
-        border-top: 0.5px solid #DADADA;
-
-    }
-
-    .nameofproject {
-        font-size: 18px;
-        padding-bottom: 15px;
-    }
-
-    .descriptionofproject {
-        font-size: 14px;
-    }
-
-    .title {
-        font-size: 14px;
-    }
-
-    .titletext {
-        font-weight: 400;
-        font-size: 12px;
-    }
-
-    .projectgoal {
-        font-size: 14px;
-    }
-
-    .projectgoal img {
-        width: auto;
-        height: 50px;
-    }
-
-    .projectinfo {
-        font-size: 13px;
-        Width: 92%;
-        padding: 10px 0;
-    }
-
-    .items {
-        font-size: 14px;
-        line-height: 20px;
-        width: 92%;
-    }
-
-    .itemIcon img {
-        height: 50px;
-    }
-
-    .itemIcon {
-        padding-top: 40px;
-    }
-
-    .wireframes img {
-        width: 100%;
-        height: auto;
-    }
-
-    .bakpic img {
-        width: auto;
-        height: 60px;
-    }
-
-    .projectinfo2 {
-        width: 90%;
-        font-size: 13px;
-        padding: 10px 0;
-    }
-
-    .left {
-
-        padding: 5px 0;
-    }
-
-    .right {
-        padding: 5px 0;
-    }
-
-    .picture {
-        margin-bottom: 30px;
-    }
-
-    .picture img {
-        height: 250px;
-    }
-
-    .abouttext {
-        width: 92%;
-    }
-
-    .skills img {
-        height: 50px;
-    }
-
-    .skills div {
-        width: 50% !important;
-        margin: 0 auto;
-        text-align: center;
-    }
-
-    .skills span {
-        font-size: 12px;
-        width: 100%;
-        display: block;
-    }
-
-    .education {
-        height: auto;
-    }
-
-    .educationBrainster {
-        height: auto;
-        width: 100%;
-        float: initial;
-    }
-
-    .educationUkim {
-        height: auto;
-        width: 100%;
-    }
-
-    .educationBrainster img {
-        width: auto;
-        height: 90px;
-    }
-
-    .educationUkim img {
-        width: auto;
-        height: 90px;
-    }
-
-    .educationproject {
-        margin-left: 80px;
-    }
-
-    .educationtitle {
-        font-size: 17px;
-        font-weight: 500;
-    }
-
-    .educationtext {
-        font-size: 13px;
-        font-weight: 500;
-    }
-
-    .workingProcess h3 {
-        font-size: 21px;
-    }
-
-    ol li {
-        font-size: 14px;
-        font-weight: 300;
-    }
-
-    h3 {
-        font-size: 20px;
-    }
-
-    .contacts i {
-        font-size: 30px;
-        margin: 20px 0px;
-    }
-
-    .heroimage2 {
-        height: 100vh;
-    }
-
-    .zanovpic img {
-        width: 100%;
-
-    }
+.innerDiv {
+width: auto;
+}
+.navigation h1 {
+font-size: 20px;
+    font-weight: 500;
+    width: 100%;
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+}
+
+h1 a {
+font-size: inherit;
+}
+
+ul {
+margin-right: 0;
+margin-left: 0;
+padding-left: 0;
+text-align: center;
+}
+
+.menu {
+    float: none;
+} 
+
+.menu li {
+font-size: 14px;
+line-height: 20px;
+}
+
+h2 {
+font-size: 22px;
+Text-align: center;
+}
+
+.image {
+display: flex;
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.image img {
+height: 200px;
+   width: auto;
+    margin: 0 auto;
+}
+
+.background {
+height: auto;
+    width: 100%;
+    padding: 15px;
+    margin: 4% 0;
+}
+
+p {
+font-size: 16px;
+    font-weight: 200;
+    margin: 0;
+}
+
+.project {
+width: 100%;
+}
+
+.projectName {
+    font-size: 18px;
+}
+
+.projectText {
+    font-size: 14px;
+}
+
+.testemonials {
+width: 100%;
+}
+
+.buttonreadmore {
+font-size: 15px;
+font-weight: 500;
+padding: 8px 20px;
+margin-top: 20px;
+}
+
+.testemonialText {
+font-size: 14px;
+line-height: 20px;
+font-weight: 300;
+padding: 40px 30px
+}
+
+.testemonialName {
+    font-size: 14px;
+}
+
+.testemonialPerson { 
+padding: 0 30px 20px 0;
+}
+
+.testemonialPosition {
+    font-size: 12px;
+}
+
+.circles {
+    position: inherit;
+    width: fit-content;
+    margin: 0 auto;
+    display: flex;
+}
+
+.name {
+font-size: 20px;
+}
+
+.contact {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-weight: 300;
+}
+
+.heroproject {
+left: 30%;
+width: 80%;
+}
+
+.projecttitle {
+width: calc(47%);
+border-top: 0.5px solid #DADADA;
+
+}
+
+.nameofproject {
+font-size: 18px;
+padding-bottom: 15px;
+}
+
+.descriptionofproject {
+font-size: 14px;
+}
+
+.title {
+    font-size: 14px;
+}
+
+.titletext {
+    font-weight: 400;
+    font-size: 12px;
+}
+
+.projectgoal {
+font-size: 14px;
+}
+
+.projectgoal img {
+    width: auto;
+    height: 50px;
+}
+
+.projectinfo {
+font-size: 14px;
+Width: 92%;
+}
+
+.items {
+font-size: 14px;
+line-height: 20px;
+width: 92%;
+}
+
+.itemIcon img {
+height: 50px;
+}
+
+.itemIcon {
+padding-top: 40px;
+}
+
+.wireframes img {
+width: 100%;
+height: auto;
+}
+
+.bakpic img {
+    width: auto;
+    height: 60px;
+}
+
+.projectinfo2 {
+    width: 90%;
+}
+
+.picture {
+    margin-bottom: 30px;
+}
+
+.picture img {
+    height: 250px;
+}
+
+.abouttext {
+width: 92%;
+}
+
+.skills img {
+    height: 50px;
+}
+
+.skills div {
+width: 50% !important;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.skills span {
+font-size: 12px;
+    width: 100%;
+    display: block;
+}
+
+.education {
+height: auto;
+}
+
+.educationBrainster {
+height: auto;
+width: 100%;
+float: initial;
+}
+
+.educationUkim {
+height: auto;
+width: 100%;
+}
+
+.educationBrainster img {
+    width: auto;
+    height: 90px;
+}
+
+.educationUkim img {
+    width: auto;
+    height: 90px;
+}
+
+.educationproject {
+    margin-left: 80px;
+}
+
+.educationtitle {
+    font-size: 17px;
+font-weight: 500;
+}
+
+.educationtext {
+    font-size: 13px;
+font-weight: 500;
+}
+
+.workingProcess h3 {
+font-size: 21px;
+}
+
+ol li {
+font-size: 14px;
+font-weight: 300;
+}
+
+h3 {
+    font-size: 21px;
+}
+
+.contacts i {
+font-size: 30px;
+margin: 20px 0px;
+}
+
+.heroimage2 {
+height: 100vh;
+}
+
+.foot {
+height: 100px;
+}
+
+.footname {
+padding: 5% 0;
+width: 100%;
+margin: 0 auto;
+text-align: center;
+}
+
+.socialmedia i {
+Font-size: 24px;
+}
 }
