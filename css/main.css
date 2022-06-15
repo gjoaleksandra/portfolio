@@ -1507,6 +1507,21 @@ ol li {
         width: 100%;
     }
 
+    .project.project1 {
+        margin-top: 10px;
+        margin-bottom: 30px;
+    }
+
+    .project.project2 {
+        margin-top: 10px;
+        margin-bottom: 30px;
+    }
+
+    .project.project3 {
+        margin-top: 10px;
+        margin-bottom: 30px;
+    }
+
     .project.project4 {
         margin-top: 10px;
         margin-bottom: 30px;
